@@ -1,4 +1,6 @@
-# Quick Sort
+# Sort Algorithm
+
+## Quick Sort
 
 알고리즘: 분할 정복(Divide and Conquer) 방법을 통해 주어진 배열을 정렬함.
 
